@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+         <title>Text Formating Tags</title>
+    </head>
+    <body>
+        <h1>
+            HTML Text Formating Tags
+        </h1>
+        <b>THIS IS BOLD TEXT</b>
+        <strong>
+            This is strong text
+        </strong><br>
+        <i>This is italic Text</i></body><br>
+        <em>this is Emphasinged</em><br>
+        <u>This is for underline Text</u><br>
+        <marks>This is Highlighted</marks>
+        <br>
+        <small>This is small Text</small>
+        <del>This is deleted Text</del><br>
+        <ins>This is Inserted Text</ins><br>
+        H<sub>2</sub>O<br>
+        X<sup>2</sup><br>
+    </body>
+    <html>
+           
